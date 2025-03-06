@@ -6,9 +6,9 @@
 
 **Check-in**
 
-> :woman_office_worker: May I see you passport, please?
+> May I see you passport, please?
 
-> :office_worker: Here you go.
+> Here you go.
 
 > Thank you. And where are you flying with us today?
 
@@ -18,8 +18,16 @@
 
 > Yes. Just one.
 
-:office_worker: Perfect. If you could please place it on the scale for me, that would be great.
+> Perfect. If you could please place it on the scale for me, that would be great.
 
-:woman_office_worker: Here you go.
+> Here you go.
 
-:office_worker: Thank you. Hmmm. It appears your bag is just a bit too heavy. It is over your weight requirement. Perhaps you could take something out of your bag and put it in your carry-on $\textcolor{red}{carry-on}$ bag
+> Thank you. Hmmm. It appears your bag is just a bit too heavy. It is over your weight requirement. Perhaps you could take something out of your bag and put it in your $\textcolor{red}{\text{carry-on bag}}$?
+
+> Yes! I'll take this big book out of the bag. No broblem.
+
+> Great! Now your bag is ready to be checked. I see you've chosen a window seat, is that still okay for you?
+
+> I think so. I've never flown before so I thought it would be nice to look out at the clouds. Dou you think it will be a good seat for me?
+
+> This is your first flight? Well, that's fantastic! You're going to love it. And yes, I think the window seat is an excellent choice for you then. Let me print your $\textcolor{red}{\text{boarding pass}}$, and you'll be ready to go. **boarding pass**
