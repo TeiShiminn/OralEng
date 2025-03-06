@@ -22,7 +22,7 @@
 
 > Here you go.
 
-> Thank you. Hmmm. It appears your bag is just a bit too heavy. It is over your weight requirement. Perhaps you could take something out of your bag and put it in your $\textcolor{red}{\text{carry-on bag}}$?
+> Thank you. Hmmm. It appears your bag is just a bit too heavy. It is over your weight requirement. Perhaps you could take something out of your bag and put it in your **carry-on bag**?
 
 > Yes! I'll take this big book out of the bag. No broblem.
 
@@ -30,4 +30,4 @@
 
 > I think so. I've never flown before so I thought it would be nice to look out at the clouds. Dou you think it will be a good seat for me?
 
-> This is your first flight? Well, that's fantastic! You're going to love it. And yes, I think the window seat is an excellent choice for you then. Let me print your $\textcolor{red}{\text{boarding pass}}$, and you'll be ready to go. **boarding pass**
+> This is your first flight? Well, that's fantastic! You're going to love it. And yes, I think the window seat is an excellent choice for you then. Let me print your **boarding pass**, and you'll be ready to go.
