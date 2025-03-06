@@ -6,9 +6,9 @@
 
 **Check-in**
 
-> May I see you passport, please?
+> :woman_office_worker: May I see you passport, please?
 
-> Here you go.
+> :office_worker: Here you go.
 
 > Thank you. And where are you flying with us today?
 
