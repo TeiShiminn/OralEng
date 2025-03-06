@@ -1,6 +1,6 @@
 ## Easy English
 
-### Lecture one: [At the Airport](https://www.bilibili.com/video/BV1X54y1p7Dd/?spm_id_from=333.337.search-card.all.click&vd_source=ee2b56875993115cf0f9e989aed69f19){:target="_blank"}
+### Lecture one: [At the Airport](https://www.bilibili.com/video/BV1X54y1p7Dd/?spm_id_from=333.337.search-card.all.click&vd_source=ee2b56875993115cf0f9e989aed69f19){target="_blank"}
 
 
 
